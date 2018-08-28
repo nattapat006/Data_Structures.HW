@@ -4,7 +4,7 @@
 ##### ขณะนี้เรียน คณะเทคโนโลยีสารสนเทศ 
 ##### สาขาวิทยาการคอมพิวเตอร์
 ### สถาบัน 
-[![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/Image/Nation_University_Logo.png)](https://github.com/fulkkie24/CSharpHomeWork)
+![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/Image/Nation_University_Logo.png)](https://github.com/fulkkie24/CSharpHomeWork)
 
 ## เรื่องที่ผมสนใจ
 - จอห์น ฟอน นอยมันน์ (John von Neumann)
@@ -40,7 +40,7 @@
    
 #### เพื่อน หรือ คนรู้จัก
 ##### อ้าาาา!!! เพื่อน ทุกคนมีเพื่อน เพื่อนทุกคนอาจไม่เท่ากัน (จำนวน) บางคนเพื่อนมากบางคนเพื่อนน้อยก็แล้วแต่สังคมและความรู้สึกส่วนตัว เพื่อนมีอยู่หลากหลายประประเภทถ้าให้มาจำแนกก็เกรงว่าจะไม่ครบ เพราะอาจจะมีประเภทที่เราไม่รู้ก็เป็นได้ และคนรู้จักใช่ทุกคนมีคนรู้จักไม่ว่าจะมากหรือหรือ เช่อว่าทุกคนต้องมี แต่คนรู้จักของเรานั้นก็จะมีระดับความสนิทสนมกับเรา ก็ต่างกันไป แต่สำหรับวันนี้ผมขอยกตัวอย่างเพื่อนผมมาหนึ่งคนแล้วกัน อั้นแน่!!!...ลุ้นละสี้ว่าเป็นใคร และเขาเป็นยังไง งั้นเรามารู้จักเขาแบบคราวๆกันเลย เพื่อนคนนี้ชื่อเล่น เขาชื่อว่า ฟรุ๊ค หรือฉายาเขาก็คือ ฟรุ๊คเดอะแร็ป ตำแหน่งของเขานะหรอเชื่อว่า สาวๆต้องกรี๊ดสลบแน่นอน ตำแหน่งของเขานั้นก็คือ เดือนมหาลัยเลยทีเดียว และเขาก็เป็นประธานรุ่นในคณะอีกด้วย เป็นไงละโปรไฟล์ของ เฮียฟรุ๊คเดอะแร็ป ติดามเขาได้ที่ FaceBook  [คลิ๊ก](https://web.facebook.com/Wachirasak.kung)
-[![Image]( https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-9/18814101_1352579894820097_7719925917587767230_n.jpg?_nc_fx=fbkk1-6&_nc_cat=0&_nc_eui2=AeFmERg3xV7OS-57L7qhzPxArel-JPz5HoIKpw4ELr2TcmfaDNbI8g-iF5e9fYYjp6K7qhNyvVT4dO-pqT1BkPVv8sIHRvkJI6ft99qXjnJtkA&oh=6700cc5d4d9411156b37cd3b25a75347&oe=5BF0CB60)
+[Image]( https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-9/18814101_1352579894820097_7719925917587767230_n.jpg?_nc_fx=fbkk1-6&_nc_cat=0&_nc_eui2=AeFmERg3xV7OS-57L7qhzPxArel-JPz5HoIKpw4ELr2TcmfaDNbI8g-iF5e9fYYjp6K7qhNyvVT4dO-pqT1BkPVv8sIHRvkJI6ft99qXjnJtkA&oh=6700cc5d4d9411156b37cd3b25a75347&oe=5BF0CB60)
   
 #### งาน Flowchart
-[![Image](https://raw.githubusercontent.com/nattapat006/Data_Structures.HW/master/000000000000000000000000000000.jpg)
+[Image](https://raw.githubusercontent.com/nattapat006/Data_Structures.HW/master/000000000000000000000000000000.jpg)
