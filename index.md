@@ -4,7 +4,7 @@
 ##### ขณะนี้เรียน คณะเทคโนโลยีสารสนเทศ 
 ##### สาขาวิทยาการคอมพิวเตอร์
 ### สถาบัน 
-![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/Image/Nation_University_Logo.png)(https://github.com/fulkkie24/CSharpHomeWork)
+![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/Image/Nation_University_Logo.png)
 
 ## เรื่องที่ผมสนใจ
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d6/JohnvonNeumann-LosAlamos.jpg)
