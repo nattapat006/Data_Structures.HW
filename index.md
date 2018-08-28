@@ -7,7 +7,9 @@
 [![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/Image/Nation_University_Logo.png)](https://github.com/fulkkie24/CSharpHomeWork)
 
 ## เรื่องที่ผมสนใจ
+[![Image](https://upload.wikimedia.org/wikipedia/commons/d/d6/JohnvonNeumann-LosAlamos.jpg)]
 - จอห์น ฟอน นอยมันน์ (John von Neumann)
+
 ###### เป็นนักคณิตศาสตร์ชาวอเมริกันเชื้อสายฮังการี มีผลงานสำคัญในหลายสาขา ทั้ง ควอนตัมฟิสิกส์ วิทยาการคอมพิวเตอร์ และ จะว่าไปแล้วก็ทุกๆ สาขาในวิชาคณิตศาสตร์ เลยก็ว่าได้
 #### ประวัติ
 ###### เขาเป็นบุตรชายคนโต ในพี่น้อง 3 คน ชื่อเดิมของนอยมันน์ คือ János Lajos Margittai Neumann เกิดที่เมืองบูดาเปส บิดาคือ Neumann Miksa (Max Neumann) เป็นนักการธนาคาร และ มารดาคือ Kann Margit (Margaret Kann) นอยมันน์มีชื่อเล่น ว่า "Jancsi" เขาเติบโตมาในครอบครัวชาวยิวที่ไม่เคร่งครัด และได้แสดงถึงความจำที่เป็นเลิศ มาตั้งแต่ยังเป็นเด็ก โดยสามารถทำการหารเลข 8 หลักในใจได้ตอนอายุ 6 ปี. ในปี ค.ศ. 1911 ก็เข้าเรียนที่ Lutheran Gymnasium (ในประเทศเยอรมนี, gymnasium หมายถึง โรงเรียนมัธยมปลาย) พอปี ค.ศ. 1913 เนื่องจากคุณพ่อของเขาได้รับตำแหน่ง (ยศ) เขาจึงได้รับชื่อในภาษาเยอรมัน von จึงใช้ชื่อเต็มเป็น János von Neumann
